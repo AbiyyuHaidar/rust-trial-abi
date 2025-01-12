@@ -1,2 +1,0 @@
-KAFKA NIGGER
-#lop yuuuu
