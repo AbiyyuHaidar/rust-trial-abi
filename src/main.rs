@@ -88,4 +88,8 @@ fn say_hello() {
     // Call the macro
     say_hello!();
 }
+#[test]
+fn say_hello2() {
+    println!("hello word");
+}
 
