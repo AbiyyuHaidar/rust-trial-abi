@@ -92,4 +92,10 @@ fn say_hello() {
 fn say_hello2() {
     println!("hello word revisi");
 }
-
+#[test]
+fn penjumlahan(){
+    let a = 11;
+    let b =12;
+    let hasil = a+b;
+    println!("hasil dari a+b= {}", hasil)
+}
