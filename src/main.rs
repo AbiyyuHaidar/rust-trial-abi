@@ -90,6 +90,6 @@ fn say_hello() {
 }
 #[test]
 fn say_hello2() {
-    println!("hello word");
+    println!("hello word revisi");
 }
 
